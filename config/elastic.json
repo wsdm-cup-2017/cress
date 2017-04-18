@@ -1,6 +1,6 @@
 {
   "hosts": [
-    "152.94.1.85:9200"
+    "localhost:9200"
   ],
   "settings": {
     "number_of_shards": 1,
