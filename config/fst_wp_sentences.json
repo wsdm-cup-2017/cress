@@ -1,0 +1,7 @@
+{
+  "dest_sentences_file": "/path/to/first_wp_sentences.tsv",
+  "dest_paragraphs_file": "/path/to/first_wp_paragraphs.tsv",
+  "src_persons_file": "/path/to//persons",
+  "src_sentences_file": "/path/to/dbpedia-2015-10/core-i18n/en/short_abstracts_en.ttl.bz2",
+  "src_paragraphs_file": "/path/to/dbpedia-2015-10/core-i18n/en/long_abstracts_en.ttl.bz2"
+}
